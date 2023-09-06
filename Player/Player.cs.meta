@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ec288ff2c8ac3ee4d9301a0fbbae3f65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodText: {instanceID: 0}
+  - attacksound: {fileID: 8300000, guid: 4c2332bc8245b474dad63074059bb755, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
